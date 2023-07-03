@@ -8,8 +8,9 @@ Aqui listarei alguns dos exercícios sugeridos neste curso, independente do nív
 | :label: Tecnologias | javascript, html5, css3, node, cmd, powershell
 | :mortar_board: certificado     |  🎓
 
-<!-- Inserir imagem ao final do link -->
 
 ---
+### pasta estruturasDeControle
+A pasta estruturasDeControle contém arquivos JS contendo exercicios sobre <code>for</code>, <code>if</code>, <code>break</code>, <code>continue</code>, <code>if else</code>, <code>switch</code>, <code>do</code> e <code>while</code>.
 
-## exercício 1
+
