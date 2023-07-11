@@ -12,5 +12,7 @@ Aqui listarei alguns dos exercícios sugeridos neste curso, independente do nív
 ---
 ### pasta estruturasDeControle
 A pasta estruturasDeControle contém arquivos JS contendo exercicios sobre <code>for</code>, <code>if</code>, <code>break</code>, <code>continue</code>, <code>if else</code>, <code>switch</code>, <code>do</code> e <code>while</code>.
+### pasta funcoes
+A pasta <strong>funcoes</strong> contem exercicios do módulo de funcoes sobre parâmetros e retornos, funções arrow, funções anônimas, funções callback, funções factory, contexto léxico, e funções construtoras.
 
 
