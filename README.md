@@ -6,7 +6,6 @@ Aqui listarei alguns dos exercícios sugeridos neste curso, independente do nív
 | -------------  | --- |
 | :sparkles: Daiana        | **Desafios de código Udemy**
 | :label: Tecnologias | javascript, html5, css3, node, cmd, powershell
-| :mortar_board: certificado     |  🎓
 
 
 ---
